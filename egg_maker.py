@@ -8,7 +8,7 @@ room.draw_room(mc)
 room.set_lighting(mc)
 
 
-#make the pumpkin
+#make the egg - first create some reusable colours
 orangeWool = block.Block(35,1)
 greyWool = block.Block(35,8)
 blueWool = block.Block(35,2)
