@@ -14,7 +14,7 @@ greyWool = block.Block(35,8)
 blueWool = block.Block(35,2)
 
 def make_egg():
-	#Body of pumpkin
+	#Insert Code Here To Draw Egg
 	#BAND 1
 	mc.setBlocks(-5,0,15,5,0,15, block.STONE)
 	mc.setBlocks(-8,1,15,8,1,15, block.STONE)
