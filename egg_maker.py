@@ -24,8 +24,8 @@ def make_egg():
 	mc.setBlocks(-10,9,15,10,4,15, block.GOLD_ORE)
 
 	#BAND 3
-	mc.setBlocks(-9,14,15,9,10,15, orangeWool)
-	mc.setBlocks(-9,14,15,9,10,15, blueWool)
+	mc.setBlocks(-9,14,15,0,10,15, orangeWool)
+	mc.setBlocks(0,14,15,9,10,15, blueWool)
 
 	#BAND 4
 	mc.setBlocks(-7,17,15,7,14,15, block.STONE)
